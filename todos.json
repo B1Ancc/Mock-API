@@ -4,34 +4,39 @@
     "id": 1,
     "title": "Cái này là GitHub",
     "completed": true,
-    "url": "https://github.com/B1Ancc"
+    "url": "https://github.com/B1Ancc",
+    "color": "#F8F32B"
   },
   {
     "userId": 1,
     "id": 2,
     "title": "Cái này vẫn là GitHub nhưng bị gạch",
     "completed": false,
-    "url": "https://github.com/B1Ancc"
+    "url": "https://github.com/B1Ancc",
+    "color": "#FAD201"
   },
   {
     "userId": 1,
     "id": 3,
     "title": "Không khác gì cái số 2",
     "completed": false,
-    "url": "https://github.com/B1Ancc"
+    "url": "https://github.com/B1Ancc",
+    "color": "#F80000"
   },
   {
     "userId": 1,
     "id": 4,
     "title": "Đây là cái số 1",
     "completed": true,
-    "url": "https://github.com/B1Ancc"
+    "url": "https://github.com/B1Ancc",
+    "color": "#3E5F8A"
   },
   {
     "userId": 1,
     "id": 5,
     "title": "GitHub",
     "completed": false,
-    "url": "https://github.com/B1Ancc"
+    "url": "https://github.com/B1Ancc",
+    "color": "#FDF4E3"
   }
 ]
