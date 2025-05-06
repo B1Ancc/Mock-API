@@ -5,7 +5,8 @@
     "title": "Cái này là GitHub",
     "completed": true,
     "url": "https://github.com/B1Ancc",
-    "color": "#F8F32B"
+    "color": "#F8F32B",
+    "qrcode": ""
   },
   {
     "userId": 1,
@@ -13,7 +14,8 @@
     "title": "Cái này vẫn là GitHub nhưng bị gạch",
     "completed": false,
     "url": "https://github.com/B1Ancc",
-    "color": "#FAD201"
+    "color": "#FAD201",
+    "qrcode": ""
   },
   {
     "userId": 1,
@@ -21,7 +23,8 @@
     "title": "Không khác gì cái số 2",
     "completed": false,
     "url": "https://github.com/B1Ancc",
-    "color": "#F80000"
+    "color": "#F80000",
+    "qrcode": ""
   },
   {
     "userId": 1,
@@ -29,7 +32,8 @@
     "title": "Đây là cái số 1",
     "completed": true,
     "url": "https://github.com/B1Ancc",
-    "color": "#3E5F8A"
+    "color": "#3E5F8A",
+    "qrcode": ""
   },
   {
     "userId": 1,
@@ -37,6 +41,7 @@
     "title": "GitHub",
     "completed": false,
     "url": "https://github.com/B1Ancc",
-    "color": "#FDF4E3"
+    "color": "#FDF4E3",
+    "qrcode": ""
   }
 ]
