@@ -6,7 +6,7 @@
     "completed": true,
     "url": "https://github.com/B1Ancc",
     "color": "#F8F32B",
-    "qrcode": ""
+    "qrCode": ""
   },
   {
     "userId": 1,
@@ -15,7 +15,7 @@
     "completed": false,
     "url": "https://github.com/B1Ancc",
     "color": "#FAD201",
-    "qrcode": ""
+    "qrCode": ""
   },
   {
     "userId": 1,
@@ -24,7 +24,7 @@
     "completed": false,
     "url": "https://github.com/B1Ancc",
     "color": "#F80000",
-    "qrcode": ""
+    "qrCode": ""
   },
   {
     "userId": 1,
@@ -33,7 +33,7 @@
     "completed": true,
     "url": "https://github.com/B1Ancc",
     "color": "#3E5F8A",
-    "qrcode": ""
+    "qrCode": ""
   },
   {
     "userId": 1,
@@ -42,6 +42,6 @@
     "completed": false,
     "url": "https://github.com/B1Ancc",
     "color": "#FDF4E3",
-    "qrcode": ""
+    "qrCode": ""
   }
 ]
